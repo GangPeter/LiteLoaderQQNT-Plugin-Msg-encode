@@ -1,0 +1,7 @@
+{
+	"version": "1.0.1",
+	"init": false,
+	"jiami": { "light": "jiami-light.svg", "dark": "jiami-dark.svg" },
+	"jiemi": { "light": "jiemi-light.svg", "dark": "jiemi-dark.svg" },
+	"add1": { "light": "add1-light.svg", "dark": "add1-dark.svg" }
+}

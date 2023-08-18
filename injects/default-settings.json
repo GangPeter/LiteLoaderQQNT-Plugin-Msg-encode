@@ -1,0 +1,9 @@
+{
+	"version": "1.0.1",
+	"decodeMode": 0,
+	"key": "12345678123412341234123456781234",
+	"autoDecode": true,
+    "autoEncode": true,
+	"errorDisplayRaw": true,
+	"writeLog": true
+}

@@ -1,0 +1,23 @@
+{
+	"manifest_version": 3,
+	"type": "extension",
+	"name": "加密消息",
+	"slug": "qqencodeMsg",
+	"description": "为QQNT添加消息自定义加密解密功能",
+	"version": "1.0.1",
+	"thumbnail": "./src/icons/icon.png",
+	"author": {
+		"name": "GangPeter",
+		"link": "https://github.com/GangPeter"
+	},
+	"repository": {
+		"repo": "GangPeter/LiteLoaderQQNT-Plugin-Msg-encode",
+		"branch": "main"
+	},
+	"platform": ["win32", "linux", "darwin"],
+	"injects": {
+		"renderer": "./injects/renderer.js",
+		"main": "./injects/main.js",
+		"preload": "./injects/preload.js"
+	}
+}
